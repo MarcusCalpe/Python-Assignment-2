@@ -60,5 +60,7 @@ To see the main Python program for Programming Assignment 2, click this link: [h
 
 #### README file Version History:
 August 27, 2026 - Initial README output created.
+
 August 28, 2026 - Uploaded Python Assignment 2 and required .npy files.
+
 August 28, 2026 - Updated README file.
