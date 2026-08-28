@@ -56,8 +56,9 @@ Lastly, this Boolean filtering was used to filter the array, extracting only the
 
 Thank you for reading!
 
-To see the main Python program for Programming Assignment 2, click this link: [https://github.com/MarcusCalpe/Python-Assignment-1/blob/main/Python%20Assignment.ipynb](https://github.com/MarcusCalpe/Python-Assignment-1/blob/main/Python%20Assignment.ipynb) and download it, open it in Jupyter Notebook, then run all cells.
+To see the main Python program for Programming Assignment 2, click this link: [https://github.com/MarcusCalpe/Python-Assignment-2/blob/main/Python%20Assignment%202.ipynb](https://github.com/MarcusCalpe/Python-Assignment-1/blob/main/Python%20Assignment.ipynb) and download it, open it in Jupyter Notebook, then run all cells.
 
 #### README file Version History:
 August 27, 2026 - Initial README output created.
 August 28, 2026 - Uploaded Python Assignment 2 and required .npy files.
+August 28, 2026 - Updated README file.
