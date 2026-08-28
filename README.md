@@ -41,7 +41,7 @@ Finally, the line above applies a Boolean condition to filter the matrix wherein
 ```python
 S = (np.arange(1,37)**2)
 ```
-``np.arange(1,37)`` was used to create to create a an array containing 1 up to 36, excluding 37, storing them in `S`. And `**2` operator was used to square the array.
+``np.arange(1,37)`` was used to create to create an array containing 1 up to 36, excluding 37, storing them in `S`. And `**2` operator was used to square the array.
 
 ```python
 S_mean = S.mean()
